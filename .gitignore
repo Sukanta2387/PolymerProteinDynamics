@@ -1,0 +1,32 @@
+
+# ignore test directory
+**test/
+
+# ignore testdata directory
+**testdata/
+
+# ignore build directories
+**build/
+
+# ignore pycache
+**__pycache__
+
+# ignore all .c files
+**.c
+
+# ignore all test files
+**test.py
+**test.*
+
+# ignore data directories
+**Data/
+**data/
+**DATA/
+
+# ignore dump dir
+**dump/
+
+# ignore lmp_serial
+**lmp_serial
+**lmp_mpi
+

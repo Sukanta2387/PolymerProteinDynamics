@@ -1,0 +1,1 @@
+both disc_len and lb should be given as fraction of the unit length considered in the simulation. 
