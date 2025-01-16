@@ -14,3 +14,5 @@
 [1] Plimpton, S.: Fast parallel algorithms for short-range molecular dynamics. J. Comput. Phys. 117, 1–19 (1995)
 
 [2] https://arxiv.org/abs/2412.15394
+
+[3] This package is partially derived from https://github.com/eskoruppa/PACTools.git
